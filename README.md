@@ -1,5 +1,4 @@
-[![Python Application Test with Github Actions by Peter](https://github.com/cpyang123/DE-W2/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/cpyang123/DE-W2/actions/workflows/test.yml)
-
+[![Python Application Test with Github Actions by Peter](https://github.com/cpyang123/DE-W4/actions/workflows/test.yml/badge.svg)](https://github.com/cpyang123/DE-W4/actions/workflows/test.yml)
 
 
 # DE-W4
