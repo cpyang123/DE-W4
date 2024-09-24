@@ -2,8 +2,10 @@
 
 
 
-# DE-W2
-This is mini project 2 of the IDS 706 class, we're generating a preliminary analysis of a sample housing price data. 
+# DE-W4
+This is mini project 4 of the IDS 706 class, we're generating a preliminary analysis of a sample housing price data. 
+
+This project is different from W2, with additional CI/CD process to test for different python versions.
 
 See the report.md file for the generated report. [Report](./report.md)
 
